@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887048034634",
+    "project_id": "userauth-ebbfe",
+    "storage_bucket": "userauth-ebbfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887048034634:android:e5bf7b6f746ad18beb89b3",
+        "android_client_info": {
+          "package_name": "com.example.assignment_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsT_nIyAn_fyaOQZl0wEIalgdiPadifSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
