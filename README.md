@@ -1,16 +1,15 @@
 # assignment_project
 
-A new Flutter project.
+This is assginment project assined by #Arcitech.
 
-## Getting Started
+In this project i have covered
 
-This project is a starting point for a Flutter application.
+1. Authentication using email and password using firebase
+2. Used RestAPI for featching data from server(Backend: Node.js, express, Mongo)
+3. Implemented basic ui features like Product Catelog, Categories, and User Profile
+4. Used Bloc and Cubit for state mangement
+5. Used Clean architecture for file handling
 
-A few resources to get you started if this is your first Flutter project:
+I hope you like project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Desclaimer: Project might not fetch data from server because it hosted in local server.
